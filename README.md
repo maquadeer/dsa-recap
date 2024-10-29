@@ -1,3 +1,4 @@
+## POTD (Problem of the day)
 ### Problem: [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - **Difficulty**: Hard
 - **Problem Statement**: Given an integer array `nums` and an integer `k`, your goal is to find the number of "good subarrays" in `nums`. A "good subarray" is defined as a contiguous subarray that contains exactly `k` distinct integers.
